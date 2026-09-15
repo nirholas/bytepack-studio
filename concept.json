@@ -1,0 +1,11 @@
+{
+  "slug": "bytepack-studio",
+  "name": "Bytepack Studio",
+  "kind": "art",
+  "description": "Pack text, JSON, SVG, and tiny media into size-safe Solana v1 inscription envelopes.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
