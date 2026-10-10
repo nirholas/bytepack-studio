@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "bytepack-studio"
+abstract: "Pack text, JSON, SVG, and tiny media into size-safe Solana v1 inscription envelopes."
+repository-code: "https://github.com/nirholas/bytepack-studio"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
