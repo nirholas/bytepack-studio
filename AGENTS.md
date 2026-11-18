@@ -8,7 +8,7 @@ Pack text, JSON, SVG, and tiny media into size-safe Solana v1 inscription envelo
 
 - Source: https://github.com/nirholas/bytepack-studio
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
